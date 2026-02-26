@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.5.4">
+  <diagram name="Página-1" id="uPOup2jQAlXgs3qPX2s9">
+    <mxGraphModel dx="866" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tC6oX7sRw8sffEszl0rT-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Interface de cadastro de usuário" vertex="1">
+          <mxGeometry height="80" width="80" x="20" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Portal do sistema" vertex="1">
+          <mxGeometry height="80" width="80" x="120" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Cadastro de livros" vertex="1">
+          <mxGeometry height="80" width="80" x="120" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Clube social" vertex="1">
+          <mxGeometry height="80" width="80" x="120" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Classificação e recomendação" vertex="1">
+          <mxGeometry height="80" width="80" x="220" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-11" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Biblioteca virtual" vertex="1">
+          <mxGeometry height="80" width="80" x="220" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-12" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Interface de compras" vertex="1">
+          <mxGeometry height="80" width="80" x="220" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-13" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Histórico de compras" vertex="1">
+          <mxGeometry height="80" width="80" x="320" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-16" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Carrinho" vertex="1">
+          <mxGeometry height="80" width="80" x="320" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-17" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Interface de pagamento" vertex="1">
+          <mxGeometry height="80" width="80" x="420" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-18" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Estoque virtual de livros" vertex="1">
+          <mxGeometry height="80" width="80" x="20" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-19" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Favoritar livros" vertex="1">
+          <mxGeometry height="80" width="80" x="120" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-21" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Dúvidas e questionamentos" vertex="1">
+          <mxGeometry height="90" width="90" x="215" y="750" as="geometry" />
+        </mxCell>
+        <mxCell id="tC6oX7sRw8sffEszl0rT-22" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Coffee" vertex="1">
+          <mxGeometry height="80" width="80" x="320" y="450" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
